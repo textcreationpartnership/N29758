@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <body>
          <div type="dialogue">
-            <pb facs="tcp:039588_0000_10147C601933A518"/>
-            <pb facs="tcp:039588_0001_10147C61A0A32DC8"/>
+            <pb facs="unknown:039588_0000_10147C601933A518"/>
+            <pb facs="unknown:039588_0001_10147C61A0A32DC8"/>
             <head>A DIALOGUE Between a <hi>Boſton</hi> Man and a <hi>Country</hi> Man.</head>
             <sp>
                <speaker>Boſton.</speaker>
@@ -148,7 +148,7 @@
                   <hi>I anſwer:</hi> I do not like the Rule of Regulating of it, not the Qualifications of Mayor &amp; Aldermen; for a Man may be worth a 1000 <abbr>
                      <hi>l.</hi>
                   </abbr> and yet have neither Grace
-<pb n="2" facs="tcp:039588_0002_10147C6326799C00"/>nor good Manner, but be a Coveteous, Man, that play <gap reason="illegible" resp="#UOM" extent="1 word">
+<pb n="2" facs="unknown:039588_0002_10147C6326799C00"/>nor good Manner, but be a Coveteous, Man, that play <gap reason="illegible" resp="#UOM" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> like a Wolfe among Sheep: An honeſt Man may not come into the Town without buying his Freedom, and if one never ſo vile may his Freedom <gap reason="illegible" resp="#UOM" extent="1 word">
                      <desc>〈◊〉</desc>
